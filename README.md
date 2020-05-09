@@ -1,4 +1,4 @@
-# CapstoneProject1_Pet_Product_Auto-Subcategorizasion_by_Review_Analysis
+# CapstoneProject1_Pet_Product_Subcategorizasion_by_Review_Analysis
 Project Title: 
 Pet Product Subcategorization by Review Analysis
 
