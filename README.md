@@ -9,17 +9,17 @@ The result of this project can be used for product classifications on the websit
   
 **< Table of Contents >**  
 **1. Codes**  
-  ☆ Preprocessing: CapstoneProject1_codes_preprocessing.ipynb  
-  ☆ Clustering: CapstoneProject1_codes_clustering.ipynb  
+  **☆ Preprocessing:** CapstoneProject1_codes_preprocessing.ipynb  
+  **☆ Clustering:** CapstoneProject1_codes_clustering.ipynb  
 **2. Reports**  
-     Project proposal: CapstoneProject1_ProjectProposal.pdf  
-     Data Wrangling: CapstoneProject1_DataWranglingReport.pdf  
-     Statistical Analysis: CapstoneProject1_StatisticalAnalysisReport.pdf  
-     Milestone report: CapstoneProject1_MilestoneReport.pdf  
-     In-Depth Analysis: CapstoneProject1_In-DepthAnalysis.pdf  
-  ☆ Final report: CapstoneProject1_ConsolidatedReport.pdf  
+     **Project proposal:** CapstoneProject1_ProjectProposal.pdf  
+     **Data Wrangling:** CapstoneProject1_DataWranglingReport.pdf  
+     **Statistical Analysis:** CapstoneProject1_StatisticalAnalysisReport.pdf  
+     **Milestone report:** CapstoneProject1_MilestoneReport.pdf  
+     **In-Depth Analysis:** CapstoneProject1_In-DepthAnalysis.pdf  
+  **☆ Final report:** CapstoneProject1_ConsolidatedReport.pdf  
 **3. Presentation**  
-  ☆ CapstonProject1_PetProductSubcategorization  
+  **☆ CapstonProject1_PetProductSubcategorization**  
     
 **< Keywords >**  
 e-commerce / pet products / reviews / subcategorization / AWS / NLP / data cleaning / data wrangling / tokenization / stop words / stemming / lemmatization / EDA / count vector / hierarchical clustering / cosine similarity / average linkage / silhouette score / t-SNE /  
