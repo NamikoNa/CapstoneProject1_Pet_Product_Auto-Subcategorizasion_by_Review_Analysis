@@ -18,7 +18,7 @@ The result of this project can be used for product classifications on the websit
      **Data Wrangling:** CapstoneProject1_DataWranglingReport.pdf  
      **Statistical Analysis:** CapstoneProject1_StatisticalAnalysisReport.pdf  
      **Milestone report:** CapstoneProject1_MilestoneReport.pdf  
-     **In-Depth Analysis:** CapstoneProject1_In-DepthAnalysis.pdf  
+     **In-Depth Analysis:** CapstoneProject1_In-DepthAnalysisReport.pdf  
   **☆ Final report:** CapstoneProject1_ConsolidatedReport.pdf  
   
 **3. Presentation**  
