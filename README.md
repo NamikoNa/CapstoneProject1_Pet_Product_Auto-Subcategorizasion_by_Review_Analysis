@@ -13,11 +13,11 @@ The result of this project can be used for product classifications on the websit
   ☆ Clustering: CapstoneProject1_codes_clustering.ipynb  
 **2. Reports**  
   - Project proposal: CapstoneProject1_ProjectProposal.pdf  
-  - Data Wrangling: CapstoneProject1_ DataWranglingReport.pdf  
-  - Statistical Analysis: CapstoneProject1_ StatisticalAnalysisReport.pdf  
-  - Milestone report: CapstoneProject1_ MilestoneReport.pdf  
+  - Data Wrangling: CapstoneProject1_DataWranglingReport.pdf  
+  - Statistical Analysis: CapstoneProject1_StatisticalAnalysisReport.pdf  
+  - Milestone report: CapstoneProject1_MilestoneReport.pdf  
   - In-Depth Analysis: CapstoneProject1_In-DepthAnalysis.pdf  
-  ☆ Final report: CapstoneProject1_ ConsolidatedReport.pdf  
+  ☆ Final report: CapstoneProject1_ConsolidatedReport.pdf  
 **3. Presentation**  
   ☆ CapstonProject1_PetProductSubcategorization  
     
