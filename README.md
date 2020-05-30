@@ -25,9 +25,5 @@ Milestone report: [CapstoneProject1_MilestoneReport.pdf](https://github.com/Nami
   **☆ [CapstonProject1_PetProductSubcategorization](https://github.com/NamikoNa/Pet_Product_Subcategorization_by_Review_Analysis_CapstoneProject1/blob/master/CapstonProject1_PetProductSubcategorization.pdf)**  
   
   
-## < Keywords >  
-e-commerce / pet products / reviews / subcategorization / AWS / NLP / data cleaning / data wrangling / tokenization / stop words / stemming / lemmatization / EDA / count vector / hierarchical clustering / cosine similarity / average linkage / silhouette score / t-SNE /  
-  
-  
 This project was conducted as a part of the Data Science Career Track Course at Springboard. My deepest appreciation goes to them, especially to my mentor, who gave me constructive comments and warm encouragement.  
 
